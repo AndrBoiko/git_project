@@ -5,7 +5,7 @@
 # None - невизначенне значення змінної
 var_none = None
 
-var_none2
+var_none2 = True
 # Boolean Type - логічний тип ( так чи ні )
 var_true = True
 
