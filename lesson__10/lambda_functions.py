@@ -1,4 +1,3 @@
-
 def func(param):
     return param * 2
 
